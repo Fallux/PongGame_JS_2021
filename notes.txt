@@ -1,0 +1,96 @@
+JAVASCRIPT PONG GAME
+-----------------------------------------------------------------------------------------------------
+PONG IS EEN SOORT VAN TENNIS SPEL
+WAARBIJ EEN SCORE 2 SPELERS EN EEN BALLETJE VOORKOMT
+CHECK DEADLINE OP GLU (23 APRIL 17:00 UUR)
+
+JE KAN EXTRA PUNTENT SCOREN MET OVERIGE DINGEN TOE TE PASEN ZOALS GELUID, OBSTAKELS OF MENUS
+ZE VERWACHTEN JE DAT JE GAAT TESTEN OP VERSCHILLENDE BROWSERS
+
+JE GAAT CLASSES GEBRUIKEN (Dus GetElementByClassName('');)
+-----------------------------------------------------------------------------------------------------
+
+github.com/Stroomer
+
+DEZE GITHUB LINK HEB JE NODIG VOOR DE STAPJES TE BEKIJKEN
+KIJK OOK NAAR README.md OM DE STAPJES TE BEKIJKEN
+------------------------------------------------------------------------------------------------------
+
+DE HUD IS ZEG MAAR DE HORIZONTALE ASSEN VAN HET VELD
+HIERMEE KAATS HET BALLETJE TERUG IN HET VELD
+ALS HET BALLETJE 
+POLYFILL IS EEN MANIER OM DE ANIMATIE OP TE SLAAN
+VECTORS IS EEN SPECIALE ARRAY WAARBIJ SPECIFIEKE DATA WORDT OPGESLAGEN
+RECTANGLE WORDT VOORAL GEBRUIK VOOR CSS
+---------------------------------------------------------------------------------------------------------
+GIT PUSH -u stap1
+
+
+this element is een soort van getElementById maar dan heel erg specifiek. Anders kent het programma je js element niet
+
+Hoe krijg je server enabled?
+rachtermuisknop kan je de live server enabelen
+wat is declareren?
+-----------------------------------------------------------------------------------------------------------
+
+les 2: 
+STAP2
+
+
+Gameclass.... check it en anders bij coaching nog en keer vraag voor extra uitleg
+die function het afsluiten () waarom is er opeens 1 ( bij (function()?
+want je moest die function achter'}' uitsluiten met die laatste ")"
+
+
+window.requestAnimFrame(callback); ---> Geen extra "()" toevoegen acher callback want dan kan je callback doen
+
+const callback = (milliseconds) => {
+	if(lasttime){
+	this.update((milliseconds - lastTime) / 1000) );
+	}
+	}
+
+
+-------------------------------------------------------------------------------------------------------------
+git branch -m"stap3"
+----------------------------------------------
+WAAROM HOOFDLETTER BIJ BALL
+
+MOESTEN WE DIT NATYPEN OF IS HET JUIST HET ADVIES OM DIT ZELF UIT TE ZOEKEN?
+--------------------------------------------------------------------------------------------------------------
+
+DELEN DOOR 2 BIJ DE X AS EN DELEN DOOR 2 BIJ DE Y AS ZET JE ZO HET VIERKANTJE IN HET MIDDEN
+OVERERVING (INHERITANCE)
+
+DAT IS IETS DAT 2 CLASSES WILT ERVEN...??
+EEN CLASS NEEMT ALLE VARIABELEN EN FUNCTIES OVER UIT EEN ANDERE CLASS
+-----------------------------------------------------------------------------------------------------------------
+RECTANGLE.JS
+
+CONSTRUCTOR MET X,Y,W,H,COLOR
+------------------------------------------------------------------------------------------------------------------
+VECTOR.JS
+
+HIERBIJ MOET JE ALLEEN DE X EN DE Y WAAARDE OPSLAAN (DUS X=0 EN Y=0 )
+       this.color      = color;//waarom is dit niet new vector?
+de vector is vooral bedoeld voor de positie (x,y) en lengte en breedte (x,y)
+--------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

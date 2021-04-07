@@ -1,0 +1,64 @@
+const game = new GAME();
+
+Dat is een object vasthouden van een javascript bestand
+
+class is gewoon class dat weet je gewoon
+
+this. is de class element van JavaScript
+
+
+velocity de snelheid van de bal optellen (doordat de bal wil laten bewegen dus er komt dus ook totaal andere posities in voor)
+
+
+
+
+if(this.ballposition)
+
+window.getRandomNumBetween
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------
+VRAGEN
+velocity was het bepalen van de snelheid en de positie aangeven als de bal beweegt toch of ergens in die richting?
+klopt
+
+
+Wat is het verschill tussen || en && en wanneer gebruik je het?
+&& is de AND statement
+
+|| is de OR statement
+
+
+Maak je dan niet de game niet saai/vervelend als de tempo zo traag gaat?
+
+verdiepend idee als de speler verliest in die rond krijgt hij het blokje toegespeeld
+
+waarom niet -20 bij de 2 speler?
+
+deltatime??
+
+zelf testen met +400
+in:
+player.velocity.y+= (this.keys[40]===true)?
+
+waaro nu wel ? symbool
+
+

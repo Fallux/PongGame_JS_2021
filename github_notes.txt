@@ -1,0 +1,7 @@
+Eerst lukas porject openen in visual studio code
+
+links onderin op stap klikken en de juiste stap selecteren daarna
+2 windows verkenners heb je dan naast elkaar nodig
+de linker op en je  eigen map
+de rechter die van Lukas
+dan kopieer die van Lukas naar je eigen map

@@ -1,0 +1,40 @@
+AND && zorgt ervoor dat 2 waardes allebei TRUE moeten zijn (dat als er een situatie is waarbij 2 eisen voldoet dat er dan pas een uitvoering voor komt)
+
+
+Je kan met else if statement beter adviseren want je kan dan beter check en je hebt meer overzichtn maar het word dan meer type werk door extra code
+maar dat is niet erg
+
+met de AND && statement of de OR || is minder typewerk maar ingewikkelder
+
+
+
+
+
+setTimeout is een functie die er voor zorgt dat de function langer over doet dat het activeerd. je gebruikt hiervoor duizend milliseconden
+(3000 millie seconden = 3 seconden) 
+
+const is hetzelfde als var en let
+
+const butArrowFunctionsAreAwesome = () => {
+ console.log('arrow functions work very well with .this')
+
+stickyFrames
+dat de a.i speler 2 niet direct beweegt
+
+
+
+setSpeed 
+
+
+
+--------------------------------------------------------------------------------------------------------------------
+VRAGEN
+hoe kan je de tegenstander verslaan (naast de het code verwijderen)
+de snelhei van de computer speler maximaal 400px
+daarnaast zorgen voor een effectbal
+
+Wat doet => terwijl er geen waarde inzit?
+
+waarom is de scoreboard niet +=?
+
+

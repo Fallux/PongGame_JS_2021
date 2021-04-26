@@ -1,0 +1,35 @@
+een object van een boek maken
+class book
+{
+	constructor(){
+		hier type je de eigenschappen van het object 
+
+	}
+
+
+
+
+
+
+
+}
+
+
+
+
+
+---------------------------
+TO DO
+begrippen uitvoeren
+
+
+
+
+
+
+---------------------------------------------------------
+VRAGEN
+wat is set en get?
+set = de informatie erin zetten
+
+get = de informatie eruit halen
